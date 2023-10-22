@@ -4,8 +4,8 @@ You can click the Preview link to take a look at your changes.
 --->
 
 # Gabriel Dias (Dias9K)
-Estou cursando Análise e Desenvolvimento de Sistemas.
-Estou também tentando concluir o bootcamp da DIO antes do prazo final para conseguir emitir o meu primeiro certificado da área da programação.
+Estou cursando Análise e Desenvolvimento de Sistemas na FACULDADE CDL.
+Estou também participando de vários bootcamps da DIO para conseguir experiência na área da programação.
 
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/dias9k/)
