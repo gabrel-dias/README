@@ -4,12 +4,12 @@ You can click the Preview link to take a look at your changes.
 --->
 
 # Gabriel Dias (Dias9K)
-Estou cursando Análise e Desenvolvimento de Sistemas na FACULDADE CDL.
-Estou também participando de vários bootcamps da DIO para conseguir experiência na área da programação.
+Moro em Fortaleza/CE e cursando o terceiro semestre de Análise e Desenvolvimento de Sistemas na Faculdade CDL.
+Além disso, estou participando de vários bootcamps da DIO e vários exercícios de outros sites para conseguir experiência na área da programação.
 
 # (EN/US)
-- 👋 Hi, I’m Gabriel Dias
-- 🌱 I’m currently studying Systems Analysis and Development in college and Java on a DIO's course.
+- 👋 Hi, I’m Gabriel Dias and I live in Fortaleza/CE
+- 🌱 I’m currently studying Systems Analysis and Development in my third semester at Faculdade CDL. And I'm also studying Java on a DIO's course.
 - 💻 I’m looking to collaborate on companies that need technical support on computers or any that are interested in beginner developers so that I can improve my skills in the area.
 - 👀 I’m interested in coding, games, heavy metal, hardware.
 - 📫 To reach me, look at the information below.
