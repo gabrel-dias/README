@@ -8,10 +8,10 @@ Moro em Fortaleza/CE e cursando o terceiro semestre de Análise e Desenvolviment
 Além disso, estou participando de vários bootcamps da DIO e vários exercícios de outros sites para conseguir experiência na área da programação.
 
 # (EN/US)
-- 👋 Hi, I’m Gabriel Dias and I live in Fortaleza/CE
+- 👋 Hi, I’m Gabriel Dias and I live in Fortaleza/CE.
 - 🌱 I’m currently studying Systems Analysis and Development in my third semester at Faculdade CDL. And I'm also studying Java on a DIO's course.
-- 💻 I’m looking to collaborate on companies that need technical support on computers or any that are interested in beginner developers so that I can improve my skills in the area.
-- 👀 I’m interested in coding, games, heavy metal, hardware.
+- 💻 I’m looking to collaborate on companies that need technical support on computers or any that are interested in beginner developers so that I can improve my skills while working.
+- 👀 I’m interested in hardware, coding, games, heavy metal 🤘.
 - 📫 To reach me, look at the information below.
 
 ## Conecte-se comigo
@@ -31,3 +31,4 @@ Além disso, estou participando de vários bootcamps da DIO e vários exercício
 ## Minhas Contribuições
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Dias9K&repo=dio-trilha-java-basico&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Dias9K/dio-trilha-java-basico)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Dias9K&repo=exercicios1e2&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Dias9K/exercicios1e2)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Dias9K&repo=Collections&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Dias9K/Collections)
