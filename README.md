@@ -24,7 +24,7 @@ Acredito firmemente que a TI é uma área de grande potencial e estou ansioso pa
 [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/__dias._/)
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:gabrielmdais557@gmail.com)
 
-## Principais habilidades desenvolvidas durante os meus estudos em programação
+## Hard skills
 [![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc) 
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
 ![C](https://img.shields.io/badge/C-000?style=for-the-badge&logo=c)
@@ -32,10 +32,10 @@ Acredito firmemente que a TI é uma área de grande potencial e estou ansioso pa
 ![Python](https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label=)
 ![MySQL](https://img.shields.io/static/v1?style=for-the-badge&message=MySQL&color=4479A1&logo=MySQL&logoColor=FFFFFF&label=)
 
-## Estatísticas em linguagens
+## Estatísticas
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Dias9K&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
-## Minhas singelas contribuições enquanto aprendo
+## Minhas singelas contribuições enquanto aprendo programação
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Dias9K&repo=dio-trilha-java-basico&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Dias9K/dio-trilha-java-basico)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Dias9K&repo=ExerciciosC&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Dias9K/exercicios1e2)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Dias9K&repo=SQL_Guanabara&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Dias9K/SQL_Guanabara)
