@@ -3,7 +3,7 @@ Dias9K/Dias9K is a ✨ special ✨ repository because its `README.md` (this file
 You can click the Preview link to take a look at your changes.
 --->
 
-# Gabriel Dias, desenvolvedor e técnico em treinamento
+# Gabriel Dias, técnico de TI e desenvolvedor em treinamento
 ## Um pouco sobre mim
 Olá!
 
