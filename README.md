@@ -33,9 +33,9 @@ Acredito firmemente que a TI é uma área de grande potencial e estou ansioso pa
 ![MySQL](https://img.shields.io/static/v1?style=for-the-badge&message=MySQL&color=4479A1&logo=MySQL&logoColor=FFFFFF&label=)
 
 ## Estatísticas
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Dias9K&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gabrel-dias&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 ## Minhas singelas contribuições enquanto aprendo programação
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Dias9K&repo=dio-trilha-java-basico&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Dias9K/dio-trilha-java-basico)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Dias9K&repo=ExerciciosC&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Dias9K/exercicios1e2)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Dias9K&repo=SQL_Guanabara&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Dias9K/SQL_Guanabara)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=gabrel-dias&repo=TrilhaJavaBasico&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/gabrel-dias/TrilhaJavaBasico)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=gabrel-dias&repo=ExerciciosC&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/gabrel-dias/exercicios1e2)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=gabrel-dias&repo=SQL_Guanabara&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/gabrel-dias/SQL_Guanabara)
